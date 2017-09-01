@@ -3,7 +3,7 @@ This is a basic usage on how to use offline maps using ".mbtiles" files.
 Just do npm i and ionic serve to test the app
 ```
 
-Then, to run it, cd into `myTabs` and run:
+Then, to run it on devices:
 
 ```bash
 $ ionic cordova platform add ios
