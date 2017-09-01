@@ -12,3 +12,4 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+inspired by http://davidrs.com/wp/phonegap-3-0-leaflet-offline-maps/
